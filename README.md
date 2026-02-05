@@ -72,13 +72,10 @@ CNNs automatically learn visual features such as edges, textures, and object sha
 2. Navigate to the project folder:
    cd SmartParkVision-DL
 
-3. Install required dependencies:
-   pip install -r requirements.txt
-
-4. Open the notebook:
+3. Open the notebook:
    jupyter notebook
 
-5. Run the cells sequentially.
+4. Run the cells sequentially.
 
 ---
 
@@ -106,4 +103,4 @@ CNNs automatically learn visual features such as edges, textures, and object sha
 
 ## Author
 
-Subiksha R
+Subiksha P R
